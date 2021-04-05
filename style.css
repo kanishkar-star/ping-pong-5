@@ -1,0 +1,54 @@
+.heading{
+    width:100%;
+    text-align:left;
+    border-radius:0px;
+    position:sticky;
+}
+
+.heading h3{
+    display:inline;
+}
+
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+
+#start, #status, #restart{
+    font-size:23px;
+}
+
+#copy_right_footer{
+    width:100%;
+    background-color:grey;
+    color:white;
+    padding:15px;
+    bottom:0;
+    margin:0px;
+    line-height:1;
+    position:fixed;
+    text-align:center;
+}
+
+#copy_right_footer:hover{
+    border:2px solid white;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+.carousel-inner{
+    text-align:center;
+}
+ canvas{
+     border:5px solid black;
+     border-radius:10px;
+     box-shadow:50x 10px 10px grey;
+ }
